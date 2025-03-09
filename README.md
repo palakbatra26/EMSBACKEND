@@ -38,10 +38,10 @@ Follow these steps to set up and run the FullStackApp locally:
 1. Clone the backend repository:
 
    ```bash
-   git clone https://github.com/arjungautam1/fullstack-backend.git
+https://github.com/palakbatra26/EMSBACKEND.git
 
 1. Clone the Frontend repository:
 
    ```bash
-    git clone https://github.com/arjungautam1/fullstack-frontend.git
+   https://github.com/palakbatra26/EMSFRONTEND.git
 
